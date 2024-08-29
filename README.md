@@ -1,5 +1,9 @@
 ![Banner](https://drive.google.com/uc?export=view&id=1efybPB8F27HoFxZebRnLEg19xi_iu4fJ)
 
+
+
+**<ins>NOTA:</ins> **  Ha finalizado el tiempo de uso gratis en Google Clouds
+
 ### PROYECTO   GOOGLE - YELP
 
 #### MARCA DE LA EMPRESA
